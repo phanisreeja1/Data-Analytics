@@ -3,7 +3,7 @@
 This repository contains a complete end-to-end analysis of COVID-19 using Python, Pandas, Plotly, and ARIMA forecasting.
 
 ## Files Included
-- covid19_analysis.ipynb (full project code)
+- covid19_analysis.ipynb
 - requirements.txt
 
 ## How to Run
